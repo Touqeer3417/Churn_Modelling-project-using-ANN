@@ -1,7 +1,13 @@
-tensorflow==2.20.0
-streamlit==1.30.0
-pandas==2.1.0
-scikit-learn==1.3.0
-matplotlib==3.8.0
-seaborn==0.13.2
+# Core Packages
+streamlit==1.28.0
+tensorflow==2.13.0
+
+# Data Processing
 numpy==1.26.0
+pandas==2.0.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Optional
+rich==14.2.0
